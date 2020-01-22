@@ -1,4 +1,4 @@
-![LlopisCNC](doc/llopiscnc.jpg.jpg?raw=true)
+![LlopisCNC](doc/llopiscnc.jpg?raw=true)
 # - LlopisCNC - 
 
 **LlopisCNC WorkBench is a anoter Another mostly printed CNC router **
